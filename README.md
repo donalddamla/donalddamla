@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-<h2> Crtifications</h2>
+<h2> Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
