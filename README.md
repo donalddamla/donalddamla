@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Coursera Security Audit Project
+
 <h2> Crtifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
